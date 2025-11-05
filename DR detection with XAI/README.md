@@ -128,7 +128,7 @@ The project uses the **Diabetic Retinopathy Detection Dataset** from Kaggle:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/DR-detection-XAI.git
+   git clone https://github.com/labeebnaji/AI/DR-detection-XAI.git
    cd DR-detection-XAI
    ```
 
